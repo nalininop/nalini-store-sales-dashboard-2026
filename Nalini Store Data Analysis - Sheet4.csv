@@ -1,0 +1,24 @@
+                                                                                     Report Observation 
+
+"Objective
+
+To analyze Nalini Store’s annual sales data for 2026 and understand customer behavior, sales trends, and business performance.
+
+Problems to Solve
+Compare sales and orders.
+Find the highest sales month.
+Identify who purchased more (Men or Women).
+Analyze different order statuses.
+Study the relationship between age and gender based on orders.
+Identify the top sales channel.
+Solution
+
+An interactive dashboard was created using Excel/Google Sheets with pivot tables, charts, slicers, and data visualization techniques to analyze sales performance and customer trends.
+
+Analysis
+
+The analysis shows that March had the highest sales and orders during 2026. Women customers contributed the highest sales share (64%), and adult customers placed the maximum number of orders. Amazon was the top-performing sales channel with the highest contribution to total orders. Most orders were successfully delivered (92.3%), indicating strong business performance.
+
+Conclusion
+
+The dashboard helps Nalini Store understand customer purchasing behavior, identify top-performing sales channels, and improve future marketing and sales strategies for business growth."
