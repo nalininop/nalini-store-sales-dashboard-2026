@@ -37,6 +37,4 @@ The dashboard helps Nalini Store understand customer purchasing behavior, identi
 
 ---
 
-## Dashboard Preview
-(Add your dashboard screenshot here)
 
